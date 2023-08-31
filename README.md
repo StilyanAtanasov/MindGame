@@ -1,2 +1,2 @@
-# MindGame2
+# MindGame
  Online Educational Game
