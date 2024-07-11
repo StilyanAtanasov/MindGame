@@ -44,7 +44,7 @@ MindGame represents a pioneering leap, seamlessly blending the exhilaration of g
 
 ### **Inviting Participation:**
 
-**Embark on the Revolution**: Immerse yourself in the MindGame revolution through our public hosting at [https://mindgame.vtbg.eu/](https://mindgame.vtbg.eu/). Experience the convergence of knowledge and play, a transformative journey that captivates, educates, and leaves you yearning for more.
+**Embark on the Revolution**: Immerse yourself in the MindGame revolution through our public hosting at [https://mindgame.vtbg.eu/](https://mindgame.vtbg.eu/) or [https://st-atanasov-mind-game.vercel.app/](https://st-atanasov-mind-game.vercel.app/) .Experience the convergence of knowledge and play, a transformative journey that captivates, educates, and leaves you yearning for more.
 
 **Administrative Control**: Explore the administrative module at [https://facts.vtbg.eu/admin/](https://facts.vtbg.eu/admin/). It's a comprehensive hub of fact management, offering nuanced control and advanced testing capabilities for APIs.
 
